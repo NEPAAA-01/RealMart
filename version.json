@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "url": "https://github.com/Laxman/RealMart/releases/download/v1.0.1/RealMart_Setup.exe",
     "changelog": "- Integrated professional update system.\n- Added Inno Setup installer support.\n- Enhanced Admin Hub dashboard with update tiles."
 }
